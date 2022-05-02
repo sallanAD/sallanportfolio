@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/sallanportfolio/static/css/main.8a61737a.css",
+    "main.js": "/sallanportfolio/static/js/main.bd5f2093.js",
+    "static/js/787.9ac6e47c.chunk.js": "/sallanportfolio/static/js/787.9ac6e47c.chunk.js",
+    "static/media/soft-2.png": "/sallanportfolio/static/media/soft-2.c08347d365e041963db6.png",
+    "static/media/bg-comic.jpeg": "/sallanportfolio/static/media/bg-comic.7f6315438d9a873244a2.jpeg",
+    "static/media/inter-3.png": "/sallanportfolio/static/media/inter-3.20ff3344e04f383be9e2.png",
+    "static/media/inter-1.jpg": "/sallanportfolio/static/media/inter-1.229c066a432e1977c5a7.jpg",
+    "static/media/skill-2.png": "/sallanportfolio/static/media/skill-2.5d000fc2f6d1e6c0baa4.png",
+    "static/media/skill-1.png": "/sallanportfolio/static/media/skill-1.33e3c8e009bb6790f672.png",
+    "static/media/project-2.JPG": "/sallanportfolio/static/media/project-2.d095594599086f27ede0.JPG",
+    "static/media/project-3.JPG": "/sallanportfolio/static/media/project-3.3c84fb206d4bf29dab26.JPG",
+    "static/media/project-4.JPG": "/sallanportfolio/static/media/project-4.a7e465a0fc434fbb9288.JPG",
+    "static/media/inter-4.jpeg": "/sallanportfolio/static/media/inter-4.b9aad7d77e6c5724a010.jpeg",
+    "static/media/Arnold-Sallan_Resume.pdf": "/sallanportfolio/static/media/Arnold-Sallan_Resume.d48ab1232aba1dcfa522.pdf",
+    "static/media/project-1.JPG": "/sallanportfolio/static/media/project-1.4b5f31c6e857e70f0345.JPG",
+    "static/media/project-5.JPG": "/sallanportfolio/static/media/project-5.bde9aa31f19778ed1303.JPG",
+    "static/media/cert-1.png": "/sallanportfolio/static/media/cert-1.2d5c14335e7323cbc72f.png",
+    "static/media/cert-2.png": "/sallanportfolio/static/media/cert-2.e593ec696605074e3e85.png",
+    "static/media/project-6.JPG": "/sallanportfolio/static/media/project-6.f151639666347685534f.JPG",
+    "static/media/soft-1.jpg": "/sallanportfolio/static/media/soft-1.97ff590d2bac3d757b6b.jpg",
+    "static/media/inter-2.png": "/sallanportfolio/static/media/inter-2.ff918384fadbcb5c0763.png",
+    "static/media/title-bar.png": "/sallanportfolio/static/media/title-bar.a3406fa6b026d3bd5185.png",
+    "static/media/bar.JPG": "/sallanportfolio/static/media/bar.a31b45460220225aea80.JPG",
+    "static/media/logo.svg": "/sallanportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/sallanportfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/sallanportfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/sallanportfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/sallanportfolio/index.html",
+    "static/media/slick.woff": "/sallanportfolio/static/media/slick.295183786cd8a1389865.woff",
+    "main.8a61737a.css.map": "/sallanportfolio/static/css/main.8a61737a.css.map",
+    "main.bd5f2093.js.map": "/sallanportfolio/static/js/main.bd5f2093.js.map",
+    "787.9ac6e47c.chunk.js.map": "/sallanportfolio/static/js/787.9ac6e47c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a61737a.css",
+    "static/js/main.bd5f2093.js"
+  ]
+}
