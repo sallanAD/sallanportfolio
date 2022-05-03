@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sallanportfolio/static/css/main.8a61737a.css",
-    "main.js": "/sallanportfolio/static/js/main.bd5f2093.js",
+    "main.css": "/sallanportfolio/static/css/main.7145ea74.css",
+    "main.js": "/sallanportfolio/static/js/main.79d26f49.js",
     "static/js/787.9ac6e47c.chunk.js": "/sallanportfolio/static/js/787.9ac6e47c.chunk.js",
     "static/media/soft-2.png": "/sallanportfolio/static/media/soft-2.c08347d365e041963db6.png",
     "static/media/bg-comic.jpeg": "/sallanportfolio/static/media/bg-comic.7f6315438d9a873244a2.jpeg",
@@ -17,24 +17,22 @@
     "static/media/project-1.JPG": "/sallanportfolio/static/media/project-1.4b5f31c6e857e70f0345.JPG",
     "static/media/project-5.JPG": "/sallanportfolio/static/media/project-5.bde9aa31f19778ed1303.JPG",
     "static/media/cert-1.png": "/sallanportfolio/static/media/cert-1.2d5c14335e7323cbc72f.png",
+    "static/media/project-6.JPG": "/sallanportfolio/static/media/project-6.52c82ec7e72f34225aad.JPG",
     "static/media/cert-2.png": "/sallanportfolio/static/media/cert-2.e593ec696605074e3e85.png",
-    "static/media/project-6.JPG": "/sallanportfolio/static/media/project-6.f151639666347685534f.JPG",
     "static/media/soft-1.jpg": "/sallanportfolio/static/media/soft-1.97ff590d2bac3d757b6b.jpg",
     "static/media/inter-2.png": "/sallanportfolio/static/media/inter-2.ff918384fadbcb5c0763.png",
     "static/media/title-bar.png": "/sallanportfolio/static/media/title-bar.a3406fa6b026d3bd5185.png",
-    "static/media/bar.JPG": "/sallanportfolio/static/media/bar.a31b45460220225aea80.JPG",
-    "static/media/logo.svg": "/sallanportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/slick.svg": "/sallanportfolio/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/sallanportfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/sallanportfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/sallanportfolio/index.html",
     "static/media/slick.woff": "/sallanportfolio/static/media/slick.295183786cd8a1389865.woff",
-    "main.8a61737a.css.map": "/sallanportfolio/static/css/main.8a61737a.css.map",
-    "main.bd5f2093.js.map": "/sallanportfolio/static/js/main.bd5f2093.js.map",
+    "main.7145ea74.css.map": "/sallanportfolio/static/css/main.7145ea74.css.map",
+    "main.79d26f49.js.map": "/sallanportfolio/static/js/main.79d26f49.js.map",
     "787.9ac6e47c.chunk.js.map": "/sallanportfolio/static/js/787.9ac6e47c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a61737a.css",
-    "static/js/main.bd5f2093.js"
+    "static/css/main.7145ea74.css",
+    "static/js/main.79d26f49.js"
   ]
 }
