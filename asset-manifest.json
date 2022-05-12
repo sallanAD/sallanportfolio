@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sallanportfolio/static/css/main.281135e7.css",
-    "main.js": "/sallanportfolio/static/js/main.2e3cba57.js",
+    "main.css": "/sallanportfolio/static/css/main.fe1d5a1b.css",
+    "main.js": "/sallanportfolio/static/js/main.fd65a2df.js",
     "static/js/787.9ac6e47c.chunk.js": "/sallanportfolio/static/js/787.9ac6e47c.chunk.js",
     "static/media/soft-2.png": "/sallanportfolio/static/media/soft-2.c08347d365e041963db6.png",
     "static/media/bg-comic.jpeg": "/sallanportfolio/static/media/bg-comic.7f6315438d9a873244a2.jpeg",
@@ -28,12 +28,12 @@
     "static/media/slick.ttf": "/sallanportfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/sallanportfolio/index.html",
     "static/media/slick.woff": "/sallanportfolio/static/media/slick.295183786cd8a1389865.woff",
-    "main.281135e7.css.map": "/sallanportfolio/static/css/main.281135e7.css.map",
-    "main.2e3cba57.js.map": "/sallanportfolio/static/js/main.2e3cba57.js.map",
+    "main.fe1d5a1b.css.map": "/sallanportfolio/static/css/main.fe1d5a1b.css.map",
+    "main.fd65a2df.js.map": "/sallanportfolio/static/js/main.fd65a2df.js.map",
     "787.9ac6e47c.chunk.js.map": "/sallanportfolio/static/js/787.9ac6e47c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.281135e7.css",
-    "static/js/main.2e3cba57.js"
+    "static/css/main.fe1d5a1b.css",
+    "static/js/main.fd65a2df.js"
   ]
 }
